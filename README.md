@@ -55,3 +55,8 @@ Certifique-se de ter o Python 3.13+ instalado e as seguintes bibliotecas:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
+**1-** Clone este repositório
+
+**2-** Abra o arquivo `class_exoplanet.ipynb` em seu ambiente Jupyter.
+
+**3-** Execute as células sequencialmente para reproduzir a análise e o treinamento dos modelos.
